@@ -25,3 +25,15 @@
   
   9. java测试替身框架
   https://github.com/mockito/mockito
+  
+  10. java浏览器测试
+  https://github.com/SeleniumHQ/selenium
+  
+  11. java浏览器测试
+  https://github.com/codeborne/selenide
+  
+  12. java验收测试
+  https://github.com/jbehave/jbehave-core
+  
+  13. java验收测试
+  https://github.com/cucumber/cucumber-jvm
