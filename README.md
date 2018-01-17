@@ -7,3 +7,6 @@
   
   3. RxJava响应式编程Java库
   https://github.com/ReactiveX/RxJava
+  
+  4. 持续交付平台
+  https://github.com/spinnaker/spinnaker
