@@ -40,3 +40,6 @@
   
   14. go语言的RPC框架
   https://github.com/twitchtv/twirp
+  
+  15. java REST服务测试框架
+  https://github.com/rest-assured/rest-assured
