@@ -61,3 +61,6 @@
  
  21. golang编写的脚本执行器
  https://github.com/mattn/anko
+ 
+ 22. go语言实现的消息中间件
+ https://github.com/nsqio/nsq
