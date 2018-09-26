@@ -64,3 +64,6 @@
  
  22. go语言实现的消息中间件
  https://github.com/nsqio/nsq
+
+23. node调用命令行工具
+https://github.com/tj/commander.js
