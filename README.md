@@ -70,3 +70,6 @@ https://github.com/tj/commander.js
 
 24. 动态导入模块的npm库
 https://github.com/mrmlnc/fast-glob
+
+25. npm的orm库
+https://github.com/typeorm/typeorm
