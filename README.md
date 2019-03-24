@@ -73,3 +73,6 @@ https://github.com/mrmlnc/fast-glob
 
 25. npm的orm库
 https://github.com/typeorm/typeorm
+
+26. zuul网关服务
+https://github.com/Netflix/zuul
