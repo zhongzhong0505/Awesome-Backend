@@ -76,3 +76,6 @@ https://github.com/typeorm/typeorm
 
 26. zuul网关服务
 https://github.com/Netflix/zuul
+
+27. 访问权限控制框架
+https://github.com/casbin/casbin
