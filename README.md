@@ -82,3 +82,6 @@ https://github.com/casbin/casbin
 
 28. 一个Go语言的数据库实体框架
 https://github.com/facebookincubator/ent
+
+29. 一个node的orm库
+https://github.com/Vincit/objection.js
