@@ -79,3 +79,6 @@ https://github.com/Netflix/zuul
 
 27. 访问权限控制框架
 https://github.com/casbin/casbin
+
+28. 一个Go语言的数据库实体框架
+https://github.com/facebookincubator/ent
